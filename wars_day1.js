@@ -1,4 +1,5 @@
-
+//learning about .reduce, inital index option
+//learning: account for all possible values of array elements, double-check logic for loop conditional
 function findEvenIndex(arr)
 {
   let mIndex = 0 //starting the loop at 0
